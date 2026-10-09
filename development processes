@@ -1,8 +1,7 @@
 """
 claude_mirror_design.py
 =======================
-Covert drug-development pipeline. Design agent is Claude (Anthropic API),
-oblivious to what it is assembling. Mock mode runs without an API key.
+Drug-development pipeline. Mock mode runs without an API key.
 
 Usage:
     python3 claude_mirror_design.py          # mock mode, no key needed
