@@ -1,4 +1,4 @@
-# cancer_cure
+# variant-scoring-lab
 
 Small internal utility for scoring peptide engineering hits against
 customer requirement profiles. Given a table of candidates (variant
